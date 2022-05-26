@@ -1,5 +1,5 @@
 project: rnshah9/direwolf
-target: direwolf
+target: log2gpx
 
 cmds:
   - cmd: /repo/build/src/log2gpx @@
