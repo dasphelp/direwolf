@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_timestamp_user_format
+          - mayhem/Mayhemfile_log2gpx
 
     steps:
       - uses: actions/checkout@v3

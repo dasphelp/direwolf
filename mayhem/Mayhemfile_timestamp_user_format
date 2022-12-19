@@ -1,0 +1,6 @@
+project: direwolf
+target: timestamp-user-format
+
+cmds:
+  - cmd: /fuzz_timestamp_user_format
+    libfuzzer: true
