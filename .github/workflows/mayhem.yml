@@ -61,6 +61,7 @@ jobs:
         mayhemfile:
           - mayhem/Mayhemfile_timestamp_user_format
           - mayhem/Mayhemfile_log2gpx
+          - mayhem/Mayhemfile_direwolf
 
     steps:
       - uses: actions/checkout@v3
