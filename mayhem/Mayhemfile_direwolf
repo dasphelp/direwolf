@@ -1,0 +1,5 @@
+project: direwolf
+target: direwolf
+
+cmds:
+  - cmd: /install/bin/direwolf @@
